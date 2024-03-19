@@ -1,0 +1,26 @@
+.errorlist { font-size: .875em; color: red; animation: 1s linear 0s 5 alternate error-animation;}
+@keyframes error-animation {
+  from { color: red }
+  to { color: white; background: red }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.album .row img { cursor: pointer}
+footer {background-color: #CCC}
+
+span.helptext {display: block}
+*/
